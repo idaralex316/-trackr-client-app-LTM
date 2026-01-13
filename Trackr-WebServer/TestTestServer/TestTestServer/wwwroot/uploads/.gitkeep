@@ -1,0 +1,3 @@
+# Giữ thư mục uploads nhưng không commit files bên trong
+*
+!.gitkeep
